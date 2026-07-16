@@ -2,9 +2,9 @@
 
 A reusable Codex skill for creating premium interactive 3D and 2.5D material-lit cards for characters, collectibles, products, games, exhibitions, and historical subjects.
 
-![Guan Yu interactive material card example](preview/guan-yu-interactive-card.png)
+[![Interactive 3D card animated preview](preview/3d-card-preview.gif)](https://mr-funny.github.io/3d-material-cards-skill/preview/)
 
-▶ [Preview the interactive 3D card video](https://mr-funny.github.io/3d-material-cards-skill/preview/)
+▶ Click the animated preview to watch the complete `3d卡牌.mp4` with sound.
 
 The Guan Yu card above is one demonstration of the workflow. The skill itself is not limited to Three Kingdoms or historical characters.
 
