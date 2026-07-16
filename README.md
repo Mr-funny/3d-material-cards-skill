@@ -10,6 +10,10 @@ The Guan Yu card above is one demonstration of the workflow. The skill itself is
 
 
 
+https://github.com/user-attachments/assets/5b37bcf3-186b-4116-b414-37dd14298eab
+
+
+
 Uploading 3d卡牌.mp4…
 
 
