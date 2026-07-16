@@ -1,27 +1,29 @@
-# Three Kingdoms Material Cards Skill
+# 3D Material Cards Skill
 
-A reusable Codex skill for creating premium interactive material-lit cards for Chinese historical figures. It covers single-character image generation, ImageGen result recovery, material-map derivation, calibrated WebGL lighting, and one-by-one collection expansion.
+A reusable Codex skill for creating premium interactive 3D and 2.5D material-lit cards for characters, collectibles, products, games, exhibitions, and historical subjects.
 
-![Guan Yu interactive material card](preview/guan-yu-interactive-card.png)
+![Guan Yu interactive material card example](preview/guan-yu-interactive-card.png)
+
+The Guan Yu card above is one demonstration of the workflow. The skill itself is not limited to Three Kingdoms or historical characters.
 
 ## What it includes
 
-- A strict one-character-at-a-time production workflow
-- A consistent midnight-navy, jade and antique-gold visual system
+- A disciplined one-card-at-a-time production workflow
 - ImageGen result extraction from Codex session JSONL
 - Height, normal, roughness and blurred parallax map generation
 - A tested WebGL material and motion preset
-- Character-specific pose guidance for the Five Tiger Generals
+- Guidance for stable pointer lighting without duplicated subjects or swimming textures
+- An optional Chinese historical engraved-card style reference
 
 ## Install
 
 Copy the skill directory into your Codex skills folder:
 
 ```bash
-cp -R three-kingdoms-material-cards ~/.codex/skills/
+cp -R 3d-material-cards ~/.codex/skills/
 ```
 
-Then invoke it with `$three-kingdoms-material-cards`.
+Then invoke it with `$3d-material-cards`.
 
 ## Requirements
 
@@ -32,10 +34,10 @@ Then invoke it with `$three-kingdoms-material-cards`.
 ## Repository layout
 
 ```text
-three-kingdoms-material-cards/
+3d-material-cards/
 ├── SKILL.md
 ├── agents/openai.yaml
-├── references/style-preset.md
+├── references/historical-card-style.md
 └── scripts/
 ```
 

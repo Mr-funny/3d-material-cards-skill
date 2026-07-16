@@ -1,4 +1,0 @@
-interface:
-  display_name: "三国材质卡牌"
-  short_description: "Create interactive embossed historical character cards"
-  default_prompt: "Use $three-kingdoms-material-cards to create a material-lit card for a Chinese historical figure."

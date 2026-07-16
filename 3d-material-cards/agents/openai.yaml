@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D 材质卡牌"
+  short_description: "Create interactive 3D cards with WebGL materials"
+  default_prompt: "Use $3d-material-cards to create a polished interactive material-lit card."
