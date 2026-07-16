@@ -8,6 +8,11 @@ A reusable Codex skill for creating premium interactive 3D and 2.5D material-lit
 
 The Guan Yu card above is one demonstration of the workflow. The skill itself is not limited to Three Kingdoms or historical characters.
 
+
+
+Uploading 3d卡牌.mp4…
+
+
 ## What it includes
 
 - A disciplined one-card-at-a-time production workflow
