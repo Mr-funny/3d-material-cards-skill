@@ -2,6 +2,13 @@
 
 **简体中文** | [English](README_EN.md)
 
+## 视频预览
+
+
+https://github.com/user-attachments/assets/2c51023d-f7ad-4bd9-9f7d-6d1423a48b2a
+
+
+
 一个用于生成交互式 3D / 2.5D 材质卡牌的 Codex Skill，适用于人物、收藏品、产品、游戏、展览与历史题材。
 
 ## 快速入口
@@ -53,11 +60,8 @@ git clone --depth 1 https://github.com/Mr-funny/3d-material-cards-skill.git \
   && cp -R 3d-material-cards-skill/3d-material-cards "${CODEX_HOME:-$HOME/.codex}/skills/"
 ```
 
-## 视频预览
 
-[![3D 卡牌动态预览](preview/3d-card-preview.gif)](https://mr-funny.github.io/3d-material-cards-skill/preview/)
 
-点击动态画面即可播放完整的 28.44 秒有声 `3d卡牌.mp4`。
 
 ## 五虎上将人物画廊
 
